@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>مدن السعودية وإحصائيات السكان</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 40px;
+        }
+        h1 {
+            text-align: center;
+            color: #006C67;
+        }
+        table {
+            width: 80%;
+            margin: 30px auto;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+        th {
+            background-color: #006C67;
+            color: white;
+        }
+        caption {
+            caption-side: top;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>مدن المملكة العربية السعودية - إحصائيات السكان</h1>
+
+    <table>
+        <caption>تعداد السكان حسب آخر الإحصائيات التقريبية</caption>
+        <thead>
+            <tr>
+                <th>المدينة</th>
+                <th>عدد السكان (تقريبًا)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>الرياض</td>
+                <td>7,800,000</td>
+            </tr>
+            <tr>
+                <td>جدة</td>
+                <td>4,700,000</td>
+            </tr>
+            <tr>
+                <td>مكة المكرمة</td>
+                <td>2,100,000</td>
+            </tr>
+            <tr>
+                <td>المدينة المنورة</td>
+                <td>1,500,000</td>
+            </tr>
+            <tr>
+                <td>الدمام</td>
+                <td>1,300,000</td>
+            </tr>
+            <tr>
+                <td>أبها</td>
+                <td>1,100,000</td>
+            </tr>
+            <tr>
+                <td>الطائف</td>
+                <td>900,000</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
